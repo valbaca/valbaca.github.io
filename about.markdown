@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a blog by Valentin Baca [@val_baca](https://twitter.com/val_baca)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a senior software engineer with 10+ years of industry experience, mostly at Amazon.com and most of that time at [AmazonSmile](https://smile.amazon.com/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I really love programming and I especially love learning new programming languages. So I plan to mostly write about that. In practice, I've mostly written Java, Objective-C, and JavaScript to pay the bills. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+In my free-time, if I'm not reading a programming book, I also play Magic The Gathering, I lift weights, and I'm learning guitar.

@@ -21,11 +21,9 @@
 title: valbaca's blog
 #email: valbaca at symbol gmail period com
 description: >- # this means to ignore newlines until "baseurl:"
-  Writings about software engineering, programming 
-  languages, and the like. Maybe some Magic the Gathering and music. 
-  Mostly Java, Kotlin, JavaScript, and TypeScript. 
+  Writings about software engineering and programming (mostly JVM & JS). Maybe some Magic the Gathering and music. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://valbaca.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: val_baca
 github_username:  valbaca
 
