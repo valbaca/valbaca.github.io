@@ -51,8 +51,6 @@ I look forward to writing about each of them.
 
 In the meantime, my world is still very much mostly Java and JavaScript. Both are getting rock-solid upgrades with Kotlin and TypeScript respectively. I don't mind any of them nearly that much anymore.
 
-![[bookshelf.jpeg]]
-
 ## So what's the point?
 
 So what's the point of learning so many programming languages if you only use really two languages? Because each language teaches a lesson, gives a different viewpoint via its paradigm, and shows what is **possible** in computing, but may just be tough in your language.
