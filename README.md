@@ -1,9 +1,11 @@
 # How to run
-- `bundle exec jekyll serve`
-- or just `jekyll serve`
-- With live-reload:
-  - `bundle exec jekyll serve --livereload`
-  - or `jekyll serve --livereload`
+`jekyll serve --livereload`
+
+More specifically:
+- To simply serve: `bundle exec jekyll serve`
+- To serve, w/ jekyll in path: `jekyll serve`
+- To serve, with live-reload: `bundle exec jekyll serve --livereload`
+- Finally, serve with live-reload, if jekyll is in path: `jekyll serve --livereload`
 
 # Misc
 
@@ -36,6 +38,10 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+You can also put images in `docs/assets` and display them with:
+![alt-text-here]({{ site.url }}/docs/assets/image.png)
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 

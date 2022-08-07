@@ -51,7 +51,7 @@ I look forward to writing about each of them.
 
 In the meantime, my world is still very much mostly Java and JavaScript. Both are getting rock-solid upgrades with Kotlin and TypeScript respectively. I don't mind any of them nearly that much anymore.
 
-![my bookshelf]({{ site.url }}/docs/assets/bookshelf.jpeg)
+![my bookshelf]({{ site.url }}/docs/assets/2022-07-20/bookshelf.jpeg)
 
 ## So what's the point?
 
