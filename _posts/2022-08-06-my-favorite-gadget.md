@@ -13,7 +13,7 @@ I think such writing prompts are really great, so I'm going to be using them to 
 
 Here's the first:
 
-# Prompt: "Favourite gadget or piece of hardware to use/work with"
+## Prompt: "Favourite gadget or piece of hardware to use/work with"
 
 This one was easy: [Logitech MX Master 2S Wireless Mouse](https://smile.amazon.com/Logitech-Master-Wireless-Mouse-Rechargeable/dp/B071YZJ1G1)
 

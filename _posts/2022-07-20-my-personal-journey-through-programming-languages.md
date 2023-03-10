@@ -7,7 +7,7 @@ categories: programming languages ruby java
 
 I originally meant to talk about Kotlin and Rust, but then this turned into a personal history of languages I've used...so that's what this post is.
 
-# Early Years
+## Early Years
 
 I love learning new programming languages. It's almost an obsession. I think it came from the fact that I learned so many clunky languages at the very beginning of my programming life. My very first programming book was ["C++ for dummies" (5th edition)](https://www.amazon.com/C-Dummies-Stephen-R-Davis/dp/0764568523). In 2006 (high school for me) C++ was synonymous with programming, at least in the sense of "how do I learn to program." Before that, I technically did a tiny bit of web-development in middle school, around 2002. It was just the absolute basics of creating a website. These skills would be really handy in the era of MySpace and being able to copy in CSS and JS and know what was actually going on!
 
@@ -21,7 +21,7 @@ Granted, there was so much at that time I didn't remotely understand (ActiveReco
 
 Of course, as the saying goes, beauty doesn't last. I'll never forget the moment of disillusionment as I worked through [Project Euler](TK) problems in Ruby. Sometimes, it would be execute in a second and solutions would consist of a single-line of code...and other times, it would take *hours* to finish executing, meanwhile my poor Thinkpad X200s turned into a hot plate. I felt firsthand what people meant when they said Ruby was slow and inefficient. Obviously my Project Euler solutions were just toy programs, poorly written by a novice and I was only a math major, but we would soon hear similar stories in the large, like with Twitter moving away from Ruby as well.
 
-# Career Years
+## Career Years
 
 With that last semester of college over, it was finally time to get to work. I went to work at Raytheon because they were literally the ones hiring. [The Great Recession](https://en.wikipedia.org/wiki/Great_Recession) was officially over but it was still very rough to get a job straight out of college. Being a military contractor, they obviously weren't on the cutting edge of web tech, but there were people really trying to bring Raytheon into the 21st century with Agile and Ruby. All I worked with was Java 4, J2EE, and some old-school IE6-compatible JavaScript. I actually did quite a bit of JavaScript because the "real" programmers were not willing to learn a "new and terrible" language. I hadn't touched JS since building my Yahoo! GeoCities website in middle school, but saw that I could fulfill a role that the team needed. It was also the time that JS was getting more attention with Node. I still have my ebook ["What is Node?"](https://www.oreilly.com/library/view/what-is-node/9781449315016/) floating in my Kindle library from that time. Even at the time, it wasn't clear whether Node was to be taken seriously or if it's an elaborate practical joke on programmers. *Somehow we were wrong and right on both accounts.*
 
@@ -39,7 +39,7 @@ At this point in my career, I think I'm approaching a new level-up moment. I've 
 
 I'm also frustrated by modern execution times. Java's cold starts on AWS Lambda have been the bane of my existence for the past several years. The GraalVM is supposed to help in this regard, but with serverless, we really have to rethink our execution model. The idea that "it doesn't matter how long it takes to serve the first request as long as the rest are fast" is old-fashioned; oh, and the "fast" second requests still aren't even that fast. Why does every request to a Java server come with a 100ms minimum latency? It's all just a tradeoff that we accepted to not have to deal with memory and pointers. And to be fair, Java held the crown for fastest enterprise language for a long time. Only recently did Go begin to usurp the  king. And again, to be fair to Java, it practically allowed Amazon and other companies to be able to build out what they needed by  tossing more developers at the problems. A mediocre junior Java developer can actually get a decent amount done. So I see why it's still on top. I mean, look at me!
 
-# Present Day
+## Present Day
 
 I'll make this section its own post, but there are a handful of languages I'd love to work with at some point:
 

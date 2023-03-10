@@ -5,9 +5,9 @@ date: 2022-09-05 09:46:42
 categories: advent
 ---
 
-# Advent of Code
+## Advent of Code
 
-What is Advent of Code? Well, go to[https://adventofcode.com/]()
+What is Advent of Code? Well, go to [https://adventofcode.com/](https://adventofcode.com/)
 
 Okay, but **what is it?** Go to [https://adventofcode.com/2021/about]
 
