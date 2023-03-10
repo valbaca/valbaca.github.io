@@ -5,7 +5,7 @@ date: 2022-05-14 12:20:23 -0700
 categories: blog website
 ---
 
-I'm revamping my blog. As a reasonable first-topic, I figured I'd explain what choices I made for hosting/etc 
+I'm revamping my blog. As a reasonable first-topic, I figured I'd explain what choices I made for hosting/etc
 
 **tl;dr: [GoDaddy](https://www.godaddy.com/) + [GitHub Pages](https://pages.github.com/)**
 
@@ -19,14 +19,13 @@ I'm revamping my blog. As a reasonable first-topic, I figured I'd explain what c
  2. Routing & Hosting: [Netlify](https://www.netlify.com/)
  3. Tech: [jekyll](https://jekyllrb.com/docs/) generated from [stackbit](https://www.stackbit.com/)
 
-
 Why these? Mostly because dev.to had instructions on how to set it all up. The main challenge was getting DNS records working. That's always a part of website setup that confounds me. Maybe I should read more [zines from Julia Evans](https://wizardzines.com/zines/dns/).
 
 But somewhere or somehow along the way, the stackbit aspect broke.
 
 Netlify builds of the site started failing out of nowhere. They gave errors like:
 
-```
+```log
 10:40:49 AM: fetching data for project from https://api.stackbit.com/pull/abc-my-stack-secret-123
 ```
 
@@ -50,20 +49,17 @@ One thing I learned is that `@` means "the current domain" in DNS Record-speak.
 
 However, Netlify is still an extra hop in the process and another account I don't want to think about.
 
-
 # Finalize
 
 To finish it all up, I just needed to cut out Netlify altogether.
 
-*An Aside*: After what's been going on with [Heroku](https://status.heroku.com/incidents/2413), I'm just tired of having extra accounts and companies in what's supposed to just be a super plain text blog. 
-
+*An Aside*: After what's been going on with [Heroku](https://status.heroku.com/incidents/2413), I'm just tired of having extra accounts and companies in what's supposed to just be a super plain text blog.
 
 Thankfully, this was also simple. Just repeated the [GitHub's instructions](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) but on GoDaddy and now the stack is just:
 
 1. Domain name registrar and DNS Routing: [GoDaddy](https://www.godaddy.com/)
 2. Hosting: [GitHub Pages](https://pages.github.com/)
 3. Tech: just [jekyll](https://jekyllrb.com/docs/)
-
 
 # Now
 
@@ -73,17 +69,17 @@ Initially, I wasn't super thrilled that GitHub uses a Ruby-powered site generato
 
 I lost the dev.to integration, but honestly not torn-up over that loss. It's a topic for another post, but I think dev.to has fallen into a "newb-friendly" trap. In an (admirable!) effort to be very beginner friendly, the content has fallen to the lowest-common denominator and the posts mostly lacking in any substance. Posts like ["What `var` means in JavaScript! 😱 "](https://dev.to/paritho/3-reasons-to-use-var-in-javascript-1hoe) or ["200 Resources EVERY developer needs"](https://dev.to/suniljoshi19/top-42-react-resources-every-developer-should-bookmark-latest-24pb) abound. I also cannot complain too much. I had literally two posts. I'm the problem too. Anyway...I think I can hookup publishing via RSS anyway. By cutting out dev.to as a primary concern, I greatly simplified the whole site.
 
-
 # Conclusion
 
 Someone just setting up their page for the first time should have a much simpler time, but I wanted to share my process of unwinding my overly complicated initial blog stack to what I have now.
 
 Coming soon...
+
 - More meaty posts
 - Musing about languages, especially:
-    - Langauges I'm actually using now: Kotlin and TypeScript
-    - Working through [Crafting Interpreters](https://craftinginterpreters.com/) using Kotlin: [klox](https://github.com/valbaca/klox)
-    - Languages I think about more than I write: Rust, Go, Clojure, and Crystal
+  - Langauges I'm actually using now: Kotlin and TypeScript
+  - Working through [Crafting Interpreters](https://craftinginterpreters.com/) using Kotlin: [klox](https://github.com/valbaca/klox)
+  - Languages I think about more than I write: Rust, Go, Clojure, and Crystal
 - Hobbies:
-    - Getting back into Magic The Gathering, especially Commander
-    - Learning Guitar
+  - Getting back into Magic The Gathering, especially Commander
+  - Learning Guitar

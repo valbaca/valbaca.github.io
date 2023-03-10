@@ -9,7 +9,6 @@ categories: hardware bloomberg kitchen
 
 ![cards]({{ site.url }}/docs/assets/2022-08-06/cards.jpeg)
 
-
 I think such writing prompts are really great, so I'm going to be using them to encourage me to blog more.
 
 Here's the first:
@@ -62,12 +61,12 @@ I won't even include a photo of what my mouse wheel looks like.
 
 I've tried cleaning it with rubbing alcohol but the rubber finger-tread starting coming off. At some point it will be the part of the mouse that fails first.
 
-However, given that I've used this mouse for well over 6000 hours (3 years * 50 weeks / year * 40 hours / week), it's fair that some rubber parts would start coming off.
+However, given that I've used this mouse for well over 6000 hours (3 years *50 weeks / year* 40 hours / week), it's fair that some rubber parts would start coming off.
 
 The rest of the mouse has held up incredibly well. Even the rubberized plastic coating, which in most electronics starts coming apart eventually, shows no ugly signs of wear; just normal smoothing from lots of use.
 
-## Honorable gadget mentions:
+## Honorable gadget mentions
 
-- Every-day Carry: Leatherman Style CS. 
+- Every-day Carry: Leatherman Style CS.
 It's always a good idea to always have a bottle-opener and knife on you at all times. For fun times and not-so-fun times. Here's one that's actually in-stock [Leatherman Skeletool RX](https://www.leatherman.com/skeletool-rx-464.html). A knife is important for safety, not strictly in the self-defense sense of "safety" but in terms of cutting free a caught pet leash (for example).
 - Kitchen: Instant Pot and [this multi-chopper](https://smile.amazon.com/dp/B07DKDNMS3/?coliid=I1PQH72W2MOSS1). I don't need to sell you on an Instant Pot. But this chopper saves A TON of time when it comes to chopping potatoes and onions.
