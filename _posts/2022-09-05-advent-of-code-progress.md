@@ -9,7 +9,7 @@ categories: advent
 
 What is Advent of Code? Well, go to [https://adventofcode.com/](https://adventofcode.com/)
 
-Okay, but **what is it?** Go to [https://adventofcode.com/2021/about]
+Okay, but **what is it?** Go to [https://adventofcode.com/2021/about](https://adventofcode.com/2021/about)
 
 Primarily, I've used Advent of Code as a fun way to keep my coding skills from atrophying during times where I'm coding less at work **and** it serves as a great way to learn new languages by forcing me to interact with typical things like:
 
