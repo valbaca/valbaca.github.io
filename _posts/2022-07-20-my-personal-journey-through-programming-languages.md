@@ -2,7 +2,8 @@
 layout: post
 title:  "My Personal Journey through Programming Languages"
 date: -0700 2022-07-20 09:56:39 -0700
-categories: programming languages ruby java
+category: code
+tags: programming languages ruby java
 ---
 
 I originally meant to talk about Kotlin and Rust, but then this turned into a personal history of languages I've used...so that's what this post is.

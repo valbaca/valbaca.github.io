@@ -2,7 +2,8 @@
 layout: post
 title:  "Advent of Code Progress"
 date: 2022-09-05 09:46:42
-categories: advent
+category: code
+tags: avent
 ---
 
 ## Advent of Code

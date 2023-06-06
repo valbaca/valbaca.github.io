@@ -2,7 +2,8 @@
 layout: post
 title:  "Advent of Code Update"
 date: 2023-04-26 19:04:52
-categories: advent
+category: advent
+tags: advent kotlin python rust
 ---
 
 ## Advent of Code Update

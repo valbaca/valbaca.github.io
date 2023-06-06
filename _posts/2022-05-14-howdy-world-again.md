@@ -2,7 +2,7 @@
 layout: post
 title:  "Howdy World (again)"
 date: 2022-05-14 12:20:23 -0700
-categories: blog website
+category: blog
 ---
 
 I'm revamping my blog. As a reasonable first-topic, I figured I'd explain what choices I made for hosting/etc

@@ -2,7 +2,8 @@
 layout: post
 title:  "My Favorite Gadget"
 date: 2022-08-06 17:43:39
-categories: hardware bloomberg kitchen
+category: blog
+tags: hardware bloomberg kitchen
 ---
 
 **First post in a new writing series: Bloomberg prompted cards**: When I went to clean out my desk last week, I found a stack of cards, which I got from a workshop at work entitled "The Title of Your Next Tech Talk." The stack of cards was given at the workshop and each has a prompt, obviously with the intention of inspiring one to give a tech talk.
