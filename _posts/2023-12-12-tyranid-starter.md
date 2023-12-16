@@ -74,7 +74,7 @@ Many units within aren' t top-tier (then it would be a steal of a buy), it's a g
 
 Next, get a **10th edition** Codex **new, in plastic!** It has a QR code that you will need to unlock the Tyranid rules in the Warhammer 40k Official App.  Also, it's **very** easy to confuse the obsolete 9th edition codex with the 10th edition codex. The 10th edition has the logo-watermark. See the image below.
 
-![tyranid-codex]({{ site.url }}/docs/assets/2023-11-21/tyranid-codex.jpeg)
+![tyranid-codex]({{ site.url }}/docs/assets/2023-12-12/tyranid-codex.jpeg)
 
 Unfortunately, the Leviathan Box doesn't have a TON of **great** units. Here's a rough breakdown of the Leviathan Units:
 
