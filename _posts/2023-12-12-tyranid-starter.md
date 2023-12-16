@@ -18,6 +18,8 @@ Here's a brief, high-level overview of what Tyranids are, what makes them unique
 
 The Tyranid are a Xenos (meaning non-human alien) faction in Warhammer 40k. They're very much a combination of the [Xenomorphs](https://en.wikipedia.org/wiki/Xenomorph) from [Alien](https://en.wikipedia.org/wiki/Alien_(franchise)), [Zerg](https://en.wikipedia.org/wiki/Zerg) from [StarCraft](https://en.wikipedia.org/wiki/StarCraft), and the Arachnids from [Starship Troopers](https://en.wikipedia.org/wiki/Starship_Troopers_(film)). Actually, the Zerg were based off Tyranids! They're one of the older and most established non-human armies in Warhammer 40k
 
+[Here is a 3-minute video overview of Tyranids from Games Workshop](https://youtu.be/G5A-PWJQLFw?si=WQwqeoeQ9hXc6W1U)
+
 Lore-wise their motivation is pretty dead-simple: *eat everything* The Tyranid army invades planets, consumes all available organic "biomass", and converts that biomass into more Tyranids. Tyranids were named after the first human planet they consumed.
 
 All of the Tyranid units and weapons are purely organic: mostly generally claws or guns that shoot burrowing slugs or acid.
@@ -32,7 +34,7 @@ You must have a unit with Shadow in the Warp on the board to do Shadow in the Wa
 
 What they generally lack in raw power, they make up in their superior ability to swarm, control objectives, and adapt.
 
-**That point is worth repeating: Tyranids are an objective-focused faction.** Prioritizing objectives and secondary objectives is crucial to winning with Tyranids. Tyranids are generally not an army that can "table" (completely kill) the opposing army. If a Tyranid army wins, it's often with some or even most of their army dead but have earned more Victory Points, which ultimately is what determines the actual winner.
+**That point is worth repeating: Tyranids are an objective-focused faction.** Prioritizing objectives and secondary objectives is crucial to winning with Tyranids. Tyranids are generally not an army that can "table" (completely kill) the opposing army. If a Tyranid army wins, it's often with some or even most of their army dead but have earned more Victory Points, which ultimately is what determines the actual winner. [This cinematic video from Games Workshop](https://youtu.be/KyxyQ0tixFk?si=-BoxErY0Skrw43B3) demonstrates it perfectly: the Tyranids appear to be getting slaughtered, but at the end of the video it shows the Imperium is losing the war.
 
 I emphasize this because it's often demoralizing to newer Tyranid players to have *dozens* of models taken off the board in one phase or even in one attack! This isn't to say that Tyranids cannot kill at all; the larger Monsters can punch.
 
@@ -59,31 +61,32 @@ Of course, these are **in general!** Specific units will, of course, break out o
 
 Before we go anywhere, it's crucial to have some valuable resources:
 
-- Core Rules and other Downloads: [Warhammer Community Downloads](https://www.warhammer-community.com/warhammer-40000-downloads/) GW has made all the Core Rules and supplemental PDFs fully available for download. The **initial** set of rules for each factions, called their **"Index"** is also available. However, once the full set of rules for a faction come out, called their **"Codex"** then those Indexes become obsolete and unavailable. Currently, Tyranids have our Codex, so see that below. Here's what you all need:
-  - Core Rules: obviously a must-have!
-  - Balance Dataslate: Contains the latest rules updates. There have been important updates to Mortal Wounds, Stratagems, and abilities that adjust CP costs of Strategems. A must-have!
-  - Munitorum Field Manual: contains the current army points costs of units. Optional if you're using an app that does points tracking for you.
-- [Wahapedia: Tyranid Datasheets](https://wahapedia.ru/wh40k10ed/factions/tyranids/datasheets.html) - All of the Tyranids Datasheets have been put onto Wahapedia, which is a Warhammer Wiki.
+- **Core Rules and other very important Downloads**: [Warhammer Community Downloads](https://www.warhammer-community.com/warhammer-40000-downloads/) GW has made all the Core Rules and supplemental PDFs fully available for download. The **initial** set of rules for each factions, called their **"Index"** is also available. However, once the full set of rules for a faction come out, called their **"Codex"** then those Indexes become obsolete and unavailable. Currently, Tyranids have our Codex, so see that below. Here's what you all need:
+  - [Core Rules](https://www.warhammer-community.com/warhammer-40000-downloads/#:~:text=Core%20Rules,Download%20(21%C2%A0MB)): obviously a must-have!
+  - [Balance Dataslate](https://www.warhammer-community.com/warhammer-40000-downloads/#:~:text=Balance%20Dataslate,Download%20(3%C2%A0MB)): Contains the latest rules updates. There have been important updates to Mortal Wounds, Stratagems, and abilities that adjust CP costs of Strategems. A must-have!
+  - [Munitorum Field Manual](https://www.warhammer-community.com/warhammer-40000-downloads/#:~:text=Munitorum%20Field%20Manual,Download%20(2%C2%A0MB)): contains the current army points costs of units. Optional if you're using an app that does points tracking for you.
+- [Wahapedia: Tyranid Datasheets](https://wahapedia.ru/wh40k10ed/factions/tyranids/datasheets.html) - All of the Tyranids Datasheets and Warhammer Rules have been put onto Wahapedia, which is a Warhammer Wiki.
+- OR [39k.pro](https://39k.pro/) is a mobile-friendly quick reference website for datasheets
 - [Tabletop Battles App](https://ttba.goonhammer.com/) Very useful for tracking CP and VPs during a game.
 
 First, This one is Easy: the Leviathan box set. Split the box with a friend or buy the Tyranid half from somewhere like eBay.
 
-This box also includes a deck of the Leviathan Chapter Approved cards, which are used for playing games of Warhammer 40k.
+This box also includes a deck of the [Leviathan Chapter Approved cards](https://www.warhammer.com/en-WW/shop/chapter-approved-leviathan-mission-deck-2023-eng), which are used for playing current standard games of Warhammer 40k.
 
-Many units within aren' t top-tier (then it would be a steal of a buy), it's a great start and recommended if you're new to Warhammer in general.
+Many units within aren't top-tier (then it would be a steal of a buy), it's a great start and recommended if you're new to Warhammer in general.
 
 Next, get a **10th edition** Codex **new, in plastic!** It has a QR code that you will need to unlock the Tyranid rules in the Warhammer 40k Official App.  Also, it's **very** easy to confuse the obsolete 9th edition codex with the 10th edition codex. The 10th edition has the logo-watermark. See the image below.
 
 ![tyranid-codex]({{ site.url }}/docs/assets/2023-12-12/tyranid-codex.jpeg)
 
-Unfortunately, the Leviathan Box doesn't have a TON of **great** units. Here's a rough breakdown of the Leviathan Units:
+Unfortunately, the Leviathan Box doesn't have a TON of **great** units even though it has a ton of models. Here's a rough breakdown of the Leviathan Units:
 
 - *Termagants*: They're a fine battleline unit. See Gargoyles below for the "upgrade"
 - *Barbgaunts*: A solid unit, especially loved by newer players, but often just doesn't make the cut in most competitive lists.
 - Psychophage: As cool as the model is, the stats are bad and it costs WAY too many points.
-- Winged Tyranid Prime: There is one configuration where this model is good (leading Warriors, NOT gargoyles!!), but it's mostly a newbie trap.
+- Winged Tyranid Prime: There is one configuration where this model is good (leading Tyranid Warriors, not included), but it's mostly a newbie trap.
 - Screamer-Killer: Another decent unit that just costs too many points. See Maleceptor below.
-- **Neurotyrant**: Finally, a good one! Not great, but has good damage output, a useful far Synapse-giving ability, and surprising durability.
+- **Neurotyrant**: Finally, a good one! Not great, but has good damage output, a useful far Synapse-giving ability, and surprising durability and improves your Shadow in the Warp. I *always* include one in my army roster.
 - Von Ryan's Leapers: With their profile, these only excel at pouncing on very weak opposing models, which just isn't something worth taking often. They compete in a crowded spot with other Lictor-like units. See Deathleaper below.
 - Neurogaunts: An okay unit to screen your deployment zone against opponent's Deep Strike or late-game Reinforcements. Very high model-to-cost ratio, but also doesn't *DO* anything.
 - **Ripper Swarms**: With Deep Strike and only costing 20 points, often a way to spend your last few points to get some reliable Secondary scoring. See Biovore below.
@@ -93,7 +96,7 @@ Unfortunately, the Leviathan Box doesn't have a TON of **great** units. Here's a
 The Number 1 question asked is "After the Leviathan box, what units should I get?" There's no perfect answer and opinions will vary, but currently, here are some of the top units in the Tyranids that aren't in the Leviathan or Starter boxes:
 
 - **1 Biovore**: Absolute must-have. Produces a Spore Mine (aka "Score Mine") each turn that can reliably score Secondary Objectives. Only one Biovore can spawn mines and only one mine is ever needed, so run exactly one Biovore.
-- (20-40x) Gargoyles: fast moving, deep-striking, high-OC screening Endless Multitude unit. As annoying as they are to  assemble, paint, and move on the board, they're infinitely more annoying for your opponent.
+- **(20-40x) Gargoyles**: fast moving, deep-striking, high-OC screening Endless Multitude unit. As annoying as they are to  assemble, paint, and move on the board, they're infinitely more annoying for your opponent.
 - **1 Deathleaper**: Just a load of abilities: Fights First, Infiltrator, Lone Op, Stealth, and Fear of the Unseen. Considered a must-have currently.
 - **2-3 Neurolictors**: Aura/Support unit that is often planted near one or even two objectives. Works very well with Deathleaper, the two are often paired together near a vital objective.
 - **1-2 Maleceptors**: All around solid unit. Very tanky with good attacks.
@@ -112,7 +115,7 @@ After those highly-recommend units above, here are the next tier of units. You d
 - **6-9 Zoanthropes**: each unit is technically 1 Neurothrope + 2-5 Zoanthropes, but generally just called "zoans". Anti-tank and gives a decent Invul aura.
 - **1 Hive Tyrant / Swarmlord / Winged Hive Tyrant**: Recent rulings have made these weaker and thus they're overcosted, but they are still a source of CP efficiency. These come in one box, but with some magnets and an extra torso from Etsy/eBay, you can actually build all three from one box.
 
-**There are many more good units out there, but these are some of the top ones.**
+**There are many more good units out there, but these above are some of the top ones.**
 
 ## Leader Combos
 
@@ -147,7 +150,7 @@ The Tyranid default detachment is the go-to for several reasons:
 Here are the other Detachments:
 
 - Crusher Stampede: Just skip this. It's Just Not Good at what it's supposed to be good at, which is big monsters.
-- Unending Swarm: Can do very well if your meta is very vehicles and anti-vehicles heavy as the swarm exploits that focus. Generally want a Swarmlord to always have enough CP for Unending Waves and about a hundred (yes, literally) Termagants. 
+- Unending Swarm: Can do very well if your meta is very vehicles and anti-vehicles heavy as the swarm exploits that focus. Generally want a Swarmlord to always have enough CP for Unending Waves and about a hundred (yes, literally 100+) Termagants. 
   - Want 100+ Undending Swarm units: Termagants mostly and many Gargoyles.
   - Terivgon and Venomthropes are good support.
 - Assimilation Swarm: Also skip. Too finicky to pilot for not even that much payoff.
@@ -156,9 +159,9 @@ Here are the other Detachments:
 - Vanguard Onslaught: Requires more skilled 3D-Chess piloting, but also considered on-par or better than Invasion Fleet competitively. Seek out guidance on it specifically elsewhere; there's been a lot said about this one.
   - Vanguard Invaders:  Broodlord, Deathleaper, Parasite of Mortrex, Winged Hive Tyrant, Winged Tyranid Prime, Gargoyles, Tyrannocyte, Genestealers, Harpy, Hive Crone, Lictor, Neurolictor, Von Ryan's Leapers
   - GOOD Vanguard Invaders: Broodlord, Deathleaper, Gargoyles, Genestealers, Lictor, Neurolictor
-- Synaptic Nexus: Like Undending Swarm, a bit more skewed but around a B-grade detachment, but still less forgiving than Invasion Fleet.
+- Synaptic Nexus: Like Undending Swarm, a bit more skewed but around a B-grade detachment, but still less forgiving than Invasion Fleet. It basically wants you to have nearlly all of your army to be Synapse for its abilities and strategems, but the payoff is certainly there for using only the most brainy of bugs.
   - Synapse units: so many
-  - Good Synapse Units
+  - Good Synapse Units: Hive Tyrant, Maleceptor, Norn Emmissary
 
 # FAQs
 
@@ -170,9 +173,9 @@ Practically, it's just fluff: how you paint your army and the lore behind it.
 
 Some notable Hive Fleets are:
 
-- Leviathan: the current poster-child fleet. Purple carapace, white skin, and pink accents.
-- Behemoth: the "old-school" Hive Fleet. Dark blue carapace, red skin, and black accents.
-- Kraken: Red Carapace, bone-white skin.
+- [Leviathan](https://warhammer40k.fandom.com/wiki/Hive_Fleet_Leviathan): the current poster-child fleet. Purple carapace, white skin, and pink accents.
+- [Behemoth](https://warhammer40k.fandom.com/wiki/Hive_Fleet_Behemoth): the "old-school" Hive Fleet. Dark blue carapace, red skin, and black accents.
+- [Kraken](https://warhammer40k.fandom.com/wiki/Hive_Fleet_Kraken): Red Carapace, bone-white skin.
 
 Most players come up with their own custom-named hive fleet for their own color scheme. Examples include "Tiamet" and "Garmr"
 
@@ -186,7 +189,16 @@ Like many kits that can build two things, the best this is to use magnets to get
 
 For magnetizing heads and arm joints (e.g. Hive Tyrant and Swarmlord): 5x2mm and use a 5/8" drill bit
 
-For magenetizing bases to a metal or magnet tray for easy carrying: 10x2mm
+For magnetizing bases to a metal or magnet tray for easy carrying: 10x2mm
+
+# More Resources
+
+YouTube:
+
+- [How to Paint](https://youtu.be/v-BlVYFxfRA?si=h0iuNtBxenqx9QEl)
+- [How to Play Tyranids (Vanguard Tactics)](https://youtu.be/M7HJPqkG42c?si=GoHI5N91-N7zfs53)
+- [Ranking all Tyranids](https://www.youtube.com/live/C8soCbpu7UY?si=YQfM5TfRF45XzOEy)
+
 
 # Caveats
 
