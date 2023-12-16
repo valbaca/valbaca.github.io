@@ -28,9 +28,20 @@ The Tyranid armies also have psyker (psychic attacking) units, which often serve
 
 NOTE that the "Synapse" **keyword** is what "has Synapse". Only those that actually **give** Synapse have it in the **keyword**. Every Tyranid unit has the Synapse **faction** rule, which just means they can **receive** Synapse.
 
-*TIP: do Shadow in the Warp during your opponent's turn to maximize its effect*
+For example, the Neurotyrant has the Synapse *keyword*, so it "has" Synapse and projects it 6". The Termagant does **not** have the Synapse *keyword* but only the Synapse *ability* so it it has the ability to *receive* Synapse (when within 6" of a unit that *has* a Synapse *keyword).
+
+---
+
+Here is the Neurotryant, which "has Synapse" because it has the Synapse keyword:
+![Neurotyrant has Synapse keyword]({{ site.url }}/docs/assets/2023-12-12/Neurotyrant-has-synapse.jpeg)
+---
+
+Here is the Termagants, which do not have the Synapse keyword:
+![Termagants can only receive Synapse from other units]({{ site.url}}/docs/assets/2023-12-12/Termagants-can-receive-synapse.jpeg)
 
 You must have a unit with Shadow in the Warp on the board to do Shadow in the Warp.
+
+*TIP: do Shadow in the Warp during your opponent's turn to maximize its effect*
 
 What they generally lack in raw power, they make up in their superior ability to swarm, control objectives, and adapt.
 
