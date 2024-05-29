@@ -30,6 +30,11 @@ Apps:
 - Official 40k App. Obviously. However, all Codex content is locked behind a QR Code you get at the back of a physical codex book.  Free version gives you one free list but Codex content is still locked away even in the paid version without a Codex code.
 - [Tabletop Battles](https://ttba.goonhammer.com/) app. A *must-have* when playing games. Tracks score keeping, Primaries, Secondaries, and Command Points.
 
+Free Army Building Apps:
+
+- [Battlescribe](https://battlescribe.net/)
+- [Newrecruit.eu](https://www.newrecruit.eu/)
+
 ## Hobby
 
 - [A Complete Guide to Painting Minis](https://youtu.be/v-BlVYFxfRA) - The *ONE* painting video I'd recommend the most
