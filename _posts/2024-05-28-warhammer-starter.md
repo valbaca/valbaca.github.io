@@ -8,6 +8,14 @@ tags: warhammer w40k 40k started intro faq
 
 This is just a compiled list of resources to getting started into the hobby and game of Warhammer 40k
 
+## Picking an Army
+
+Rules and apps come second. First is finding an army/faction that you really love!
+
+- [Every Army in 20 mins - Poorhammer](https://www.youtube.com/watch?v=b_b6vosDElQ)
+- [Why NOT to play each faction - Poorhammer](https://www.youtube.com/watch?v=dVunthA4BDs)
+- [How do they Play - Auspex Tactics](https://www.youtube.com/watch?v=LIDVcwNMn5c)
+
 ## Rules
 
 Hard to play a game if you don't have the rules...and there are **a lot** and they're spread out across multiple locations.
@@ -61,8 +69,20 @@ For the following, you could use anything, it doesn't much matter:
 
 Finally, the most unnecessary and ridiculous splurge spend: Fancy dice from [Baron of Dice](https://baronofdice.com/collections/futuristic-wargaming-collection)
 
-## Picking an Army
+## FAQs
 
-- [Every Army in 20 mins - Poorhammer](https://www.youtube.com/watch?v=b_b6vosDElQ)
-- [How do they Play - Auspex Tactics](https://www.youtube.com/watch?v=LIDVcwNMn5c)
-- [Why NOT to play each faction - Poorhammer](https://www.youtube.com/watch?v=dVunthA4BDs)
+Q: What's a Faction? Codex? Index? Detachment?
+
+A: First, "faction" is what Warhammer calls the different armies, chapters, etc. For example, Tyranids are a faction. Blood Angels are a faction. There is more nuance for factions like the various Space Marines but you probably get the idea.
+
+At the start of the 10th edition of Warhmammer, each faction starts with an **initial set of rules, called their Index**
+
+The Index contains their Army Rule and a *single default Detachment*. With only one Detachment, if you choose that Army you get that Army Rule and Detachment Pair.
+
+**As time goes on, each army gets an updated rules book which replace their Index rules, called a Codex.** A Codex (generally) contains more **Detachments, which are the styles of play for a faction**, and has some rules updates to their units.
+
+**When you pick a faction, you get that faction's Army Rule. Then you get to pick one Detachment from among their available Detachments. If your faction's Codex is not yet out, this generally means you have just one Detachment to choose from.**
+
+Upcoming Codexes in Summer 2024: Adepta Sororitas, Genestealer Cults, and some unknown "Redacted" Codex!
+
+NOTE: Exceptions of course exist. Some factions got Army Rules changes (e.g. Death Guard) or even new Detachments (e.g. Drukhari) *before* their Codex came out, as they were needed for balance.
