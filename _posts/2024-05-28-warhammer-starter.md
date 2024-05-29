@@ -10,7 +10,7 @@ This is just a compiled list of resources to getting started into the hobby and 
 
 ## Picking an Army
 
-Rules and apps come second. First is finding an army/faction that you really love!
+Rules and apps come second. First is finding an army/faction that you really love! Here's some videos to help you decide:
 
 - [Every Army in 20 mins - Poorhammer](https://www.youtube.com/watch?v=b_b6vosDElQ)
 - [Why NOT to play each faction - Poorhammer](https://www.youtube.com/watch?v=dVunthA4BDs)
@@ -49,6 +49,8 @@ Free Army Building Apps:
 
 ## Gear
 
+This section is the most opinionated and honestly the least important. Find what works for you and your needs. None of this is by any means truly necessary and I've just found these things work for me and maybe they will for you too!
+
 - [Case - Jucoci](https://www.amazon.com/gp/product/B0BN1MHDLS) - I'd *highly* recommend this case. Fits my purposes very well. I *tried* making plastic bins with magnet sheets work but I much prefer this case:
 
 I personally prefer non-Citadel products. No real reason. I just prefer The Army Painter as they're a solid budget option:
@@ -63,6 +65,7 @@ Again, for horde armies, you go through a lot glue too, so these $10 20g bottles
 Again, these are just budget alternatives to Citadel's products. Citadel works just fine.
 
 For the following, you could use anything, it doesn't much matter:
+
 - [Paintbrushes](https://www.amazon.com/dp/B075L8LCTG)
 - [Small Magnets - Amazon](https://www.amazon.com/gp/product/B09SKHYGLN)
 - [Large Magnets - Amazon](https://www.amazon.com/gp/product/B09X1WWD3P)
