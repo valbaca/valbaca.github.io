@@ -1,6 +1,8 @@
-# How to run
+## How to run
 
-`jekyll serve --livereload`
+```sh
+jekyll serve --livereload
+```
 
 More specifically:
 
@@ -9,13 +11,13 @@ More specifically:
 - To serve, with live-reload: `bundle exec jekyll serve --livereload`
 - Finally, serve with live-reload, if jekyll is in path: `jekyll serve --livereload`
 
-# Misc
+## Misc
 
 <https://github.com/planetjekyll/awesome-jekyll-plugins>
 
-# Example blog post
+## Example blog post
 
-```
+```markdown
 ---
 layout: post
 title:  "Welcome to Jekyll!"
