@@ -11,6 +11,20 @@ More specifically:
 - To serve, with live-reload: `bundle exec jekyll serve --livereload`
 - Finally, serve with live-reload, if jekyll is in path: `jekyll serve --livereload`
 
+Full setup:
+
+1. Install Ruby 3. I prefer `mise install ruby@3 && mise use ruby@3`
+2. Update bundle. Possibly optional but avoids errors
+
+```sh
+gem update --system
+gem install bundler
+bundle update --bundler
+```
+
+3. Install dependencies: `bundle install`
+4. Run server: `bundle exec jekyll serve`
+
 ## Misc
 
 <https://github.com/planetjekyll/awesome-jekyll-plugins>
